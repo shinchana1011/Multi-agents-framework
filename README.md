@@ -1,7 +1,7 @@
 # Multi-agents-framework
 ## Project tree
 
-![1735151092894](image/readme/1735151092894.png)
+![image](image/readme/image.png)
 
 ## System Architecture Diagrams
 
